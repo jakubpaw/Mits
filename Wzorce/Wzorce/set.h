@@ -48,4 +48,4 @@ vector<T> Set<T, maxEl>::to_vector()
 	{
 		myVec.pushback(elements[i]);
 	}
-}
+}//
